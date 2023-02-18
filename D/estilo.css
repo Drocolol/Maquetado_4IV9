@@ -1,0 +1,35 @@
+
+body{
+    font-weight: bold;
+    font-family: 'Times New Roman';
+    color: rgb(242, 242, 253);
+    background-color:rgba(80, 32, 129, 0.82);
+    font-size: large;
+}
+
+article{
+    text-align: center;
+}
+
+header{
+    text-align: center;
+    background: rgba(0,0,0,0.7);
+    width: 100%;
+    position: sticky;
+}
+
+nav li{
+    text-align: left;
+}
+
+
+aside nav{
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+div img{
+    width: 200px;
+}
